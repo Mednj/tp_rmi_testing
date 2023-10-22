@@ -19,3 +19,7 @@ Invocation de Méthode à Distance (RMI) : Le projet expose ces fonctionnalités
 Problème Rencontré :
 Lors de l'exécution des méthodes RMI, notamment findAll et findById, une exception se produit en lien avec le chargement de classes, plus précisément org.hibernate.collection.internal.PersistentBag. Cette difficulté liée au chargement de classes lors de la désérialisation côté client empêche la récupération réussie des données depuis la base de données.
 
+
+https://github.com/Mednj/tp_rmi_testing/assets/69809265/146344b8-daf3-46cd-baf7-cccae162b3c5
+
+
